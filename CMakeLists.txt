@@ -27,5 +27,3 @@ add_executable( main apps/main.cpp )
 add_executable( main2 apps/main2.cpp )
 add_executable( test_tree apps/test_tree.cpp )
 add_executable( unique_words apps/unique_words.cpp )
-
-
